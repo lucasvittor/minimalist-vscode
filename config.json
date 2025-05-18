@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.wordWrap": "on",
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": false,
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\L7CAS\\Oracle\\network\\admin",
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\L7CAS\\Oracle\\network\\admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.download.otherFolder": "C:\\Users\\L7CAS\\downloads",
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\L7CAS\\Oracle\\oracle.oracledevtools",
+    "jdk.jdkhome": "c:\\Users\\L7CAS\\Documents\\PROJETOS\\JAVA\\Oracle_JDK-24",
+    "git.confirmSync": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.enableSmartCommit": true,
+}
